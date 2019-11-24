@@ -1,5 +1,5 @@
 /*
- *  abc-esp.c
+ *  abc-esp.ino
  *
  *  Copyright (c) 2019 Gabriele Mondada.
  *  This software is distributed under the terms of the MIT license.
